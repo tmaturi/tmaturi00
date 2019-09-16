@@ -8,70 +8,70 @@ title: Publications
  
 ### To appear
  
-- M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals [preprint version].
-- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [preprint version]
-- T. He, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric Predictive Inference for European Option Pricing based on the Binomial Tree Model. Journal of the Operational Research Society. [preprint version]
+- M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals [[preprint version](pdfs/jstp19-190102.pdf){:target="_blank"}]
+- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
+- T. He, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric Predictive Inference for European Option Pricing based on the Binomial Tree Model. Journal of the Operational Research Society. [[preprint version](pdfs/NPI_European_option_pricing_Binomial_tree.pdf){:target="_blank"}]
 - **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-18.zip)]
  
   <br>
   
 ### 2019
-- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [preprint version]
-- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice,13:15. [preprint version]
-- X. Huang, F.P.A. Coolen, **T. Coolen-Maturi** (2019). A heuristic survival signature based approach for reliability-redundancy allocation. Reliability Engineering and System Safety, 185, 511-517. [preprint version]
+- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [[preprint version](pdfs/Testing_betas_paper_R1.pdf){:target="_blank"}]
+- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice,13:15. [[preprint version](pdfs/NPI_RP_LRT_R1.pdf){:target="_blank"}]
+- X. Huang, F.P.A. Coolen, **T. Coolen-Maturi** (2019). A heuristic survival signature based approach for reliability-redundancy allocation. Reliability Engineering and System Safety, 185, 511-517. [[preprint version](pdfs/SRO_EJOR_Final.pdf){:target="_blank"}]
  
   <br>
   
 ### 2018
-- N. Muhammad, **T. Coolen-Maturi** and F.P.A. Coolen (2018). Nonparametric predictive inference with parametric copulas for combining bivariate diagnostic tests. Statistics, Optimization & Information Computing, 6, 398-408. [preprint version] [final version]
-- S. Eryilmaz, F.P.A. Coolen, **T. Coolen-Maturi** (2018). Mean residual life of coherent systems consisting of multiple types of dependent components. Naval Research Logistics, 65, 86–97. [preprint version]
-- F.P.A. Coolen, **T. Coolen-Maturi** and H.N. Alqifari (2018). Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, 47, 2527-2548. [preprint version]
-- S. Eryilmaz, F.P.A. Coolen, **T. Coolen-Maturi** (2018). Marginal and joint reliability importance based on survival signature. Reliability Engineering and System Safety, 172, 118-128. [preprint version]
+- N. Muhammad, **T. Coolen-Maturi** and F.P.A. Coolen (2018). Nonparametric predictive inference with parametric copulas for combining bivariate diagnostic tests. Statistics, Optimization & Information Computing, 6, 398-408. [[preprint version](pdfs/SOIC-FC-1708.pdf){:target="_blank"}] [[final version](http://www.iapress.org/index.php/soic/article/view/soic.20180906/359){:target="_blank"}]
+- S. Eryilmaz, F.P.A. Coolen, **T. Coolen-Maturi** (2018). Mean residual life of coherent systems consisting of multiple types of dependent components. Naval Research Logistics, 65, 86–97. [[preprint version](pdfs/Eryilmaz-Coolen-CoolenMaturi-NRL-Revised.pdf){:target="_blank"}]
+- F.P.A. Coolen, **T. Coolen-Maturi** and H.N. Alqifari (2018). Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, 47, 2527-2548. [[preprint version](pdfs/ComStats-orderstats-revision-FC-1703.pdf){:target="_blank"}]
+- S. Eryilmaz, F.P.A. Coolen, **T. Coolen-Maturi** (2018). Marginal and joint reliability importance based on survival signature. Reliability Engineering and System Safety, 172, 118-128. [[preprint version](pdfs/importance-RESS.pdf){:target="_blank"}]
  
   <br>
   
 ### 2017
-- **T. Coolen-Maturi** (2017). Three-group ROC predictive analysis for ordinal outcomes, Communications in Statistics – Theory and Methods, 46(19), 9476-9493.[preprint version]
-- **T. Coolen-Maturi** (2017). Predictive inference for best linear combination of biomarkers subject to limits of detection, Statistics in Medicine, 36(18), 2844-2874.[preprint version]
-- E. Patelli, G. Feng, F.P.A. Coolen, **T. Coolen-Maturi** (2017). Simulation Methods for System Reliability Using the Survival Signature. Reliability Engineering & System Safety,  167, 327–337. [preprint version]
-- R.M. Baker, **T. Coolen-Maturi** and F.P.A. Coolen (2017). Nonparametric predictive inference for stock returns. Journal of Applied Statistics, 44(8): 1333-1349. [preprint version] [50 Free eprint]
-- Y-C Yin, F.P.A. Coolen, **T. Coolen-Maturi** (2017).  An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety, 167, 158-167. [preprint version]
+- **T. Coolen-Maturi** (2017). Three-group ROC predictive analysis for ordinal outcomes, Communications in Statistics – Theory and Methods, 46(19), 9476-9493.[[preprint version](pdfs/3ROC_ordinal_20160621rev.pdf){:target="_blank"}]
+- **T. Coolen-Maturi** (2017). Predictive inference for best linear combination of biomarkers subject to limits of detection, Statistics in Medicine, 36(18), 2844-2874.[[preprint version](pdfs/ROC_limits_Stat_Med_Clean_DRO.pdf){:target="_blank"}]
+- E. Patelli, G. Feng, F.P.A. Coolen, **T. Coolen-Maturi** (2017). Simulation Methods for System Reliability Using the Survival Signature. Reliability Engineering & System Safety,  167, 327–337. [[preprint version](pdfs/SimulationNetworkSystemRevised2.pdf){:target="_blank"}]
+- R.M. Baker, **T. Coolen-Maturi** and F.P.A. Coolen (2017). Nonparametric predictive inference for stock returns. Journal of Applied Statistics, 44(8): 1333-1349. [[preprint version](pdfs/JAS_stocks_20160526_rev_preprint.pdf){:target="_blank"}]
+- Y-C Yin, F.P.A. Coolen, **T. Coolen-Maturi** (2017).  An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety, 167, 158-167. [[preprint version](pdfs/RESS-ALT-rev2-1705.pdf){:target="_blank"}]
  
   <br>
   
 ### 2016
-- **T. Coolen-Maturi**, F.P.A. Coolen and N. Muhammad (2016). Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice, 10, 515-538. [preprint version]
+- **T. Coolen-Maturi**, F.P.A. Coolen and N. Muhammad (2016). Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice, 10, 515-538. [[preprint version](pdfs/JSTP-Copulas-1506-rev.pdf){:target="_blank"}]
 - F.P.A. Coolen, **T. Coolen-Maturi** (2016). On the structure function and survival signature for system reliability. Safety and Reliability, 36(2), 77-87.
 - T. Coolen-Maturi (2016). New weighted rank correlation coefficients sensitive to agreement on top and bottom rankings. Journal of Applied Statistics, 43(12), 2261-2279.
-- F.P.A. Coolen, **T. Coolen-Maturi** (2016). The structure function for system reliability as (imprecise) probability, Reliability Engineering & System Safety, 154, 180-187. [preprint version]
+- F.P.A. Coolen, **T. Coolen-Maturi** (2016). The structure function for system reliability as (imprecise) probability, Reliability Engineering & System Safety, 154, 180-187. [[preprint version](pdfs/RESS-StructFunction-rev2-1602.pdf){:target="_blank"}]
  
   <br>
   
 ### 2015
-- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Modelling uncertain aspects of system dependability with survival signatures. In: Dependability Problems of Complex Information Systems, W. Zamojski, J. Sugier (Eds). Springer, Berlin, pp. 19-34. [preprint version]
-- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Predictive inference for system reliability after common-cause component failures. Reliability Engineering and System Safety, 135, 27-33. [preprint version]
-- **T. Coolen-Maturi** and F.P.A. Coolen (2015).  Nonparametric predictive inference with combined data under different right-censoring schemes.  Journal of Statistical Theory and Practice, 9, 288-304. [preprint version]
+- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Modelling uncertain aspects of system dependability with survival signatures. In: Dependability Problems of Complex Information Systems, W. Zamojski, J. Sugier (Eds). Springer, Berlin, pp. 19-34. [[preprint version](pdfs/Springer15-preprint.pdf){:target="_blank"}]
+- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Predictive inference for system reliability after common-cause component failures. Reliability Engineering and System Safety, 135, 27-33. [[preprint version]http://tahanimaturi.com/onewebmedia/RESS-CCF-141105-rev.pdf){:target="_blank"}]
+- **T. Coolen-Maturi** and F.P.A. Coolen (2015).  Nonparametric predictive inference with combined data under different right-censoring schemes.  Journal of Statistical Theory and Practice, 9, 288-304. [[preprint version](pdfs/NPI-Combined-JSTP-140108-final-rev.pdf){:target="_blank"}]
 - K.F. Tee, L.R. Khan and **T. Coolen-Maturi** (2015). Application of receiver operating characteristic curve for pipeline reliability analysis. Journal of Risk and Reliability, 229(3), 181-192.
  
   <br>
   
 ### 2014
-- F.P.A. Coolen, T. Coolen-Maturi, A.H. Al-nefaiee (2014). Nonparametric predictive inference for system reliability using the survival signature. Journal of Risk and Reliability, Journal of Risk and Reliability 228, 437-448. [preprint version]
-- T. Coolen-Maturi and F.P.A. Coolen (2014). Nonparametric predictive inference for combined competing risks data.  Reliability Engineering & System Safety, 126, 87-97. [preprint version]
+- F.P.A. Coolen, T. Coolen-Maturi, A.H. Al-nefaiee (2014). Nonparametric predictive inference for system reliability using the survival signature. Journal of Risk and Reliability, Journal of Risk and Reliability 228, 437-448. [[preprint version](pdfs/RESS-StructFunction-rev2-1602.pdf){:target="_blank"}]
+- T. Coolen-Maturi and F.P.A. Coolen (2014). Nonparametric predictive inference for combined competing risks data.  Reliability Engineering & System Safety, 126, 87-97. [[preprint version](pdfs/NPI-Combin-RESS-final%2520-%2520rev.pdf){:target="_blank"}]
 - T. Coolen-Maturi (2014).  A new weighted rank coefficient of concordance. Journal of Applied Statistics, 41(8), 1721-1745.
-- T. Coolen-Maturi, F.F. Elkhafifi, F.P.A. Coolen (2014). Three-group ROC analysis: A nonparametric predictive approach. Computational Statistics & Data Analysis, 78, 69-81. [preprint version] [Related technical report link]
-- T. Coolen-Maturi (2014). Nonparametric predictive pairwise comparison with competing risks.  Reliability Engineering & System Safety, 132, 146–153. [preprint version]
+- T. Coolen-Maturi, F.F. Elkhafifi, F.P.A. Coolen (2014). Three-group ROC analysis: A nonparametric predictive approach. Computational Statistics & Data Analysis, 78, 69-81. [[preprint version](pdfs/12604.pdf){:target="_blank"}] [[Related technical report link](pdfs/CoEC2013.pdf){:target="_blank"}]
+- T. Coolen-Maturi (2014). Nonparametric predictive pairwise comparison with competing risks.  Reliability Engineering & System Safety, 132, 146–153. [[preprint version](pdfs/13201.pdf){:target="_blank"}]
 
   <br>
   
 ### 2013
-- F.P.A. Coolen, P. Coolen-Schrijner, T. Coolen-Maturi and F.F.G.A. Elkhafifi (2013). Nonparametric predictive inference for ordinal data. Communications in Statistics-Theory and Methods, 42(19), 3478-3496. [preprint version]
-- T. Coolen-Maturi (2013). Islamic Insurance (Takaful): Demand and Supply in the UK. International Journal of Islamic and Middle Eastern Finance and Management, 6(2): 87-104. [preprint version]
+- F.P.A. Coolen, P. Coolen-Schrijner, T. Coolen-Maturi and F.F.G.A. Elkhafifi (2013). Nonparametric predictive inference for ordinal data. Communications in Statistics-Theory and Methods, 42(19), 3478-3496. [[preprint version](pdfs/CommStats-ordinal-revision-110929.pdf){:target="_blank"}]
+- T. Coolen-Maturi (2013). Islamic Insurance (Takaful): Demand and Supply in the UK. International Journal of Islamic and Middle Eastern Finance and Management, 6(2): 87-104. [[preprint version](pdfs/17085735_pre.pdf){:target="_blank"}]
  
   <br>
   
 ### 2012
-- T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive Inference for diagnostic accuracy. Journal of Statistical Planning and Inference, 142, 1141-1150. [[preprint version](pdfs/NPI-ROC-JSPI-100901.pdf)
+- T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive Inference for diagnostic accuracy. Journal of Statistical Planning and Inference, 142, 1141-1150. [[preprint version](pdfs/NPI-ROC-JSPI-100901.pdf){:target="_blank"}]
 - T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive multiple comparison of lifetime data, Communications in Statistics-Theory and Methods, 41(22), 4164-4181. [[preprint version](pdfs/CommStats11-rev-101109.pdf){:target="_blank"}]
 - T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive inference for binary diagnostic tests. Journal of Statistical Theory and Practice, 6(4), 665-680. [[preprint version](pdfs/JSTP-Bin-Daig-1205120-Revision.pdf){:target="_blank"}]
 - F.P.A. Coolen and T. Coolen-Maturi (2012). Generalizing the signature to systems with multiple types of components. In: Complex Systems and Dependability, W. Zamojski, J. Mazurkiewicz, J. Sugier, T. Walkowiak, J. Kacprzyk (editors). Springer, Berlin, pp. 115-130. [[preprint version](pdfs/Coolen-DepCos12-preprint.pdf){:target="_blank"}]
