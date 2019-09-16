@@ -6,9 +6,9 @@ title: Research
 
 [Nonparametric Predictive Inference](https://npi-statistics.com){:target="_blank"}, Nonparametric Statistics, Modeling dependence, Statistical methodology in Finance, Reliability and Survival analysis, Diagnostic accuracy including ROC analysis, Uncertainty quantification including imprecise probability.
 
+<br>
 
 ### Current PhD students
-
 
 - Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (jointly supervised by Frank Coolen). To start October 2018.
 
@@ -30,7 +30,7 @@ title: Research
 
 - Mr Banjaran Surya Indrastomo: 'Demand and Supply Condition for Islamic Finance and Banking in Indonesia: An Investigation to the Behavioural Norms of Individual and Organisational Agents’ (started Oct 2014 - 1st supervisor Prof Mehmet Asutay), Durham University Business School.
 
-
+<br>
 
 ### Past PhD students
 
