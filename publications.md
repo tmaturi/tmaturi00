@@ -80,8 +80,8 @@ title: Publications
   <br>
   
 ### 2011
-- T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2011). Nonparametric predictive selection with early experiment termination. Journal of Statistical Planning and Inference, 141, 1403-1421. [preprint version]
-- T. Coolen-Maturi and F.P.A. Coolen (2011). Unobserved, re-defined, unknown or removed failure modes in competing risks. Journal of Risk and Reliability, 225, 461-474. [preprint version]
+- T. Coolen-Maturi, P. Coolen-Schrijner and F.P.A. Coolen (2011). Nonparametric predictive selection with early experiment termination. Journal of Statistical Planning and Inference, 141, 1403-1421. [[preprint version](pdfs/jspi-select-rev-100921.pdf){:target="_blank"}]
+- T. Coolen-Maturi and F.P.A. Coolen (2011). Unobserved, re-defined, unknown or removed failure modes in competing risks. Journal of Risk and Reliability, 225, 461-474. [[preprint version](pdfs/jrr-cr2-110127-revision.pdf){:target="_blank"}]
  
   <br>
   
@@ -143,6 +143,6 @@ title: Publications
 
 ## Other publications
  
-- Tahani A. Maturi (2010). Nonparametric Predictive Inference for Multiple Comparisons. PhD Thesis, Durham University, UK. (Full text)
+- Tahani A. Maturi (2010). Nonparametric Predictive Inference for Multiple Comparisons. PhD Thesis, Durham University, UK. [[Full text](pdfs/TM10.pdf){:target="_blank"}]
  
 
