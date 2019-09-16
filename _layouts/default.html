@@ -79,16 +79,17 @@ a:active {
   </div>
   <div id="mm">
     <ul>
-        <li  class="{% if page.url == '/index.html' %} active {% endif %}">
+        <li  class="{% if page.url == 'index.html' %} current {% endif %}">
                 <a href="/index.html">About</a></li>
-         <li  class="{% if page.url == '{{ site.baseurl }}research.html' %} active {% endif %}">
+         <li  class="{% if page.url == 'research.html' %} current {% endif %}">
                 <a href="/research.html">Research</a></li>
-            <li  class="{% if page.url == '{{ site.baseurl }}publications.html' %} active {% endif %}">
+            <li  class="{% if page.url == 'publications.html' %} current {% endif %}">
                 <a href="/publications.html">Publications</a></li>
-            <li  class="{% if page.url == '{{ site.baseurl }}teaching.html' %} active {% endif %}">
+            <li  class="{% if page.url == 'teaching.html' %} current {% endif %}">
                 <a href="/teaching.html">Teaching</a></li>
-            <li  class="{% if page.url == '{{ site.baseurl }}links.html' %} active {% endif %}">
+            <li  class="{% if page.url == 'links.html' %} current {% endif %}">
                 <a href="/links.html">Links</a></li>
+      
     </ul>
   </div>
   <div>
@@ -124,25 +125,25 @@ a:active {
                               <div class="menu menuself menuhorizontal menuhorizontalcenter menuverticalmiddle" style="width:980px;height:60px">
                                 <ul class="menu1">
                                   <li>
-                                    <a href="{{ site.baseurl }}index.html"><span>About</span></a>
+                                    <a href="index.html"><span>About</span></a>
                                     <div class="divider"></div>
                                   </li>
 
                                   <li>
-                                    <a href="{{ site.baseurl }}research.html"><span>Research</span></a>
+                                    <a href="research.html"><span>Research</span></a>
                                     <div class="divider"></div>
 
                                   </li>
 
                                   <li>
-                                    <a href="{{ site.baseurl }}teaching.html"><span>Teaching</span></a>
+                                    <a href="teaching.html"><span>Teaching</span></a>
                                     <div class="divider"></div>
                                   </li>
                                   <li>
-                                    <a href="{{ site.baseurl }}publications.html"><span>Publications</span></a>
+                                    <a href="publications.html"><span>Publications</span></a>
                                     <div class="divider"></div>
                                   </li>
-                                  <li><a href="{{ site.baseurl }}links.html"><span>Links</span></a></li>
+                                  <li><a href="links.html"><span>Links</span></a></li>
                                 </ul>
 
 
