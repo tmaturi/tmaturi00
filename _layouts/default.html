@@ -81,13 +81,13 @@ a:active {
     <ul>
         <li  class="{% if page.url == '/index.html' %} active {% endif %}">
                 <a href="/index.html">About</a></li>
-         <li  class="{% if page.url == '/research.html' %} active {% endif %}">
+         <li  class="{% if page.url == '{{ site.baseurl }}research.html' %} active {% endif %}">
                 <a href="/research.html">Research</a></li>
-            <li  class="{% if page.url == '/publications.html' %} active {% endif %}">
+            <li  class="{% if page.url == '{{ site.baseurl }}publications.html' %} active {% endif %}">
                 <a href="/publications.html">Publications</a></li>
-            <li  class="{% if page.url == '/teaching.html' %} active {% endif %}">
+            <li  class="{% if page.url == '{{ site.baseurl }}teaching.html' %} active {% endif %}">
                 <a href="/teaching.html">Teaching</a></li>
-            <li  class="{% if page.url == '/links.html' %} active {% endif %}">
+            <li  class="{% if page.url == '{{ site.baseurl }}links.html' %} active {% endif %}">
                 <a href="/links.html">Links</a></li>
     </ul>
   </div>
