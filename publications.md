@@ -73,7 +73,7 @@ title: Publications
 ### 2012
 - **T. Coolen-Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive Inference for diagnostic accuracy. Journal of Statistical Planning and Inference, 142, 1141-1150. [[preprint version](pdfs/NPI-ROC-JSPI-100901.pdf){:target="_blank"}]
 - **T. Coolen-Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive multiple comparison of lifetime data, Communications in Statistics-Theory and Methods, 41(22), 4164-4181. [[preprint version](pdfs/CommStats11-rev-101109.pdf){:target="_blank"}]
-- **T. Coolen-Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive inference for binary diagnostic tests. Journal of Statistical Theory and Practice, 6(4), 665-680. [[preprint version](pdfs/JSTP-Bin-Daig-1205120-Revision.pdf){:target="_blank"}]
+- **T. Coolen-Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2012). Nonparametric predictive inference for binary diagnostic tests. Journal of Statistical Theory and Practice, 6(4), 665-680. [[preprint version](pdfs/JSTP-Bin-Daig-120512-Revision.pdf){:target="_blank"}] 
 - F.P.A. Coolen and **T. Coolen-Maturi** (2012). Generalizing the signature to systems with multiple types of components. In: Complex Systems and Dependability, W. Zamojski, J. Mazurkiewicz, J. Sugier, T. Walkowiak, J. Kacprzyk (editors). Springer, Berlin, pp. 115-130. [[preprint version](pdfs/Coolen-DepCos12-preprint.pdf){:target="_blank"}]
  
  
