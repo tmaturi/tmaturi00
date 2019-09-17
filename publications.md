@@ -49,7 +49,7 @@ title: Publications
   
 ### 2015
 - F.P.A. Coolen and **T. Coolen-Maturi** (2015). Modelling uncertain aspects of system dependability with survival signatures. In: Dependability Problems of Complex Information Systems, W. Zamojski, J. Sugier (Eds). Springer, Berlin, pp. 19-34. [[preprint version](pdfs/Springer15-preprint.pdf){:target="_blank"}]
-- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Predictive inference for system reliability after common-cause component failures. Reliability Engineering and System Safety, 135, 27-33. [[preprint version]http://tahanimaturi.com/onewebmedia/RESS-CCF-141105-rev.pdf){:target="_blank"}]
+- F.P.A. Coolen and **T. Coolen-Maturi** (2015). Predictive inference for system reliability after common-cause component failures. Reliability Engineering and System Safety, 135, 27-33. [[preprint version](pdfs/RESS-CCF-141105-rev.pdf){:target="_blank"}]
 - **T. Coolen-Maturi** and F.P.A. Coolen (2015).  Nonparametric predictive inference with combined data under different right-censoring schemes.  Journal of Statistical Theory and Practice, 9, 288-304. [[preprint version](pdfs/NPI-Combined-JSTP-140108-final-rev.pdf){:target="_blank"}]
 - K.F. Tee, L.R. Khan and **T. Coolen-Maturi** (2015). Application of receiver operating characteristic curve for pipeline reliability analysis. Journal of Risk and Reliability, 229(3), 181-192.
  
@@ -57,7 +57,7 @@ title: Publications
   
 ### 2014
 - F.P.A. Coolen, **T. Coolen-Maturi**, A.H. Al-nefaiee (2014). Nonparametric predictive inference for system reliability using the survival signature. Journal of Risk and Reliability, Journal of Risk and Reliability 228, 437-448. [[preprint version](pdfs/RESS-StructFunction-rev2-1602.pdf){:target="_blank"}]
-- **T. Coolen-Maturi** and F.P.A. Coolen (2014). Nonparametric predictive inference for combined competing risks data.  Reliability Engineering & System Safety, 126, 87-97. [[preprint version](pdfs/NPI-Combin-RESS-final%2520-%2520rev.pdf){:target="_blank"}]
+- **T. Coolen-Maturi** and F.P.A. Coolen (2014). Nonparametric predictive inference for combined competing risks data.  Reliability Engineering & System Safety, 126, 87-97. [[preprint version](pdfs/NPI-Combin-RESS-final-rev.pdf){:target="_blank"}]
 - **T. Coolen-Maturi** (2014).  A new weighted rank coefficient of concordance. Journal of Applied Statistics, 41(8), 1721-1745.
 - **T. Coolen-Maturi**, F.F. Elkhafifi, F.P.A. Coolen (2014). Three-group ROC analysis: A nonparametric predictive approach. Computational Statistics & Data Analysis, 78, 69-81. [[preprint version](pdfs/12604.pdf){:target="_blank"}] [[Related technical report link](pdfs/CoEC2013.pdf){:target="_blank"}]
 - **T. Coolen-Maturi** (2014). Nonparametric predictive pairwise comparison with competing risks.  Reliability Engineering & System Safety, 132, 146–153. [[preprint version](pdfs/13201.pdf){:target="_blank"}]
