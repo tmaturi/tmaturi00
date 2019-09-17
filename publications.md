@@ -109,6 +109,13 @@ title: Publications
  
  <br>
  
+### 2018-2019
+- A.M. Mahnashi, T. Coolen-Maturi, F.P.A. Coolen. Generalizing nonparametric predictive inference for right-censored data to two future observations. 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, to appear.
+- A.S.M. Al Luhayb, T. Coolen-Maturi, F.P.A. Coolen. Generalizing Banks’ smoothed bootstrap method for right-censored data. 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, to appear.
+- A.S.M. Al Luhayb, T. Coolen-Maturi, F.P.A. Coolen (2019). Smoothed bootstrap for survival function inference. Proceedings of the International Conference on Information and Digital Technologies IDT'2019, Zilina (Slovakia), June 2019, pp 297-304.
+
+<br> 
+ 
 ### 2016-2017
 - N. Muhammad, F.P.A. Coolen, **T. Coolen-Maturi** (2017). Nonparametric predictive inference for combining diagnostic tests with parametric copula. Proceedings ICoAIMS 2017; IOP Conference Series: Journal of Physics; Conference Series 890 pp. 1-6.
 - Y.C. Yin, F.P.A. Coolen, **T. Coolen-Maturi** (2017). Combining nonparametric predictive inference and power-law methods for accelerated life testing. Risk, Reliability and Safety: Innovating Theory and Practice, Proceedings of the European Safety and Reliability Conference (ESREL 2016), L. Walls, M. Revie, T. Bedford (Eds), Glasgow, UK, September 2016, Taylor and Francis Group, London, pp. 44-51.
